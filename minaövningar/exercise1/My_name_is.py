@@ -5,8 +5,6 @@ students = int(input("How many students are there in you class:? "))
 
 
 
-print(f'My name is {f_name}, and my last name is {l_name}.\nI am participating in the course {course}.\nThere are {students} candidates taking the course ')
-
 print("My name is", end= " ")
 print(f_name, end= " ") 
 print("with last name", end= " ") 
