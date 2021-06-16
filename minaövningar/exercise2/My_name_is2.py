@@ -1,4 +1,6 @@
 
+
+
 f_name = input("What's your first name?: ").capitalize()
 l_name = input("What's your last_name?: ").capitalize()
 course = input("Name of your course?: ").lower()

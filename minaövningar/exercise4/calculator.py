@@ -1,4 +1,3 @@
-
 f_number = int(input("Enter a number: "))
 operator = input("Which operator would you like to use *, / , - or + ?: ")
 s_number = int(input("Now enter your second number: "))
@@ -21,3 +20,5 @@ else:
         print(suM)
     else:
         print("You have entered a non numeric number or chosen an operator that dosent exist")
+
+

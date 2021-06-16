@@ -1,3 +1,4 @@
+
 punish_t = "I WILL NOT TEACH OTHERS TO FLY\n"
 number_of_repitions = 9
 
